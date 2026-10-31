@@ -252,7 +252,12 @@ export function App() {
   }
 
   if (!currentUser) {
-    return <AuthPage onSuccess={setCurrentUser} />;
+    return (
+      <>
+        <InstallAppBanner />
+        <AuthPage onSuccess={setCurrentUser} />
+      </>
+    );
   }
 
   const deletingMonitor = monitors.find(m => m.id === deletingMonitorId);
