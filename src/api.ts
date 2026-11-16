@@ -10,10 +10,33 @@ async function request<T>(path: string, options: RequestInit = {}): Promise<T> {
     credentials: 'include'
   });
 
-  const data = await response.json().catch(() => ({}));
   if (!response.ok) {
-    throw new Error(data.error || `Request failed with status ${response.status}`);
+    let errorMsg = '';
+    try {
+      const data = await response.json();
+      if (data && typeof data.error === 'string') {
+        errorMsg = data.error;
+      }
+    } catch {
+      // response body was not JSON (e.g. proxy edge message)
+    }
+
+    if (!errorMsg) {
+      if (response.status === 429) {
+        errorMsg = 'Too many requests. Please wait a moment and try again.';
+      } else if (response.status === 401) {
+        errorMsg = 'Invalid email or password. Please try again.';
+      } else if (response.status === 403) {
+        errorMsg = 'Access denied. You do not have permission.';
+      } else {
+        errorMsg = `Request failed with status ${response.status}`;
+      }
+    }
+
+    throw new Error(errorMsg);
   }
+
+  const data = await response.json().catch(() => ({}));
   return data as T;
 }
 

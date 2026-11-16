@@ -46,7 +46,8 @@
     "989d3245-2a60-4bb6-8ee0-670cebf67db6": "usr-admin",
     "1fe4272d-b783-43e1-8722-b476e1752832": "usr-feb12e5c",
     "7a6c8a38-7fa2-4366-b83a-6552e8c9adc5": "usr-analyst",
-    "5f86051e-5cdc-4fb9-953c-35be39a1644c": "usr-admin"
+    "5f86051e-5cdc-4fb9-953c-35be39a1644c": "usr-admin",
+    "36b37287-33bc-40d7-8983-798772315869": "usr-admin"
   },
   "monitors": [
     {
@@ -55,16 +56,16 @@
       "url": "https://www.amazon.in/dp/B0DGH7P...",
       "domain": "amazon.in",
       "category": "Mobile",
-      "currentPrice": 123707,
-      "previousPrice": 126284,
+      "currentPrice": 121345,
+      "previousPrice": 127330,
       "baselinePrice": 128861,
       "marketAvgPrice": 137598,
-      "lowestPrice30d": 121861,
+      "lowestPrice30d": 121345,
       "highestPrice30d": 128841,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -4.7,
       "frequency": "5m",
-      "lastChecked": "2026-10-31T20:43:05.941Z",
+      "lastChecked": "2026-11-16T06:10:41.909Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Maharashtra",
@@ -248,7 +249,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 123707,
+          "price": 121345,
           "baselinePrice": 128861,
           "marketAvg": 137598
         }
@@ -260,16 +261,16 @@
       "url": "https://www.flipkart.com/samsung-galaxy-s24...",
       "domain": "flipkart.com",
       "category": "Mobile",
-      "currentPrice": 131711,
-      "previousPrice": 134455,
+      "currentPrice": 132519,
+      "previousPrice": 138329,
       "baselinePrice": 137199,
       "marketAvgPrice": 142799,
       "lowestPrice30d": 129746,
       "highestPrice30d": 137177,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -4.2,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T21:03:21.180Z",
+      "lastChecked": "2026-11-16T06:16:41.962Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Karnataka",
@@ -453,7 +454,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 131711,
+          "price": 132519,
           "baselinePrice": 137199,
           "marketAvg": 142799
         }
@@ -465,16 +466,16 @@
       "url": "https://zepto.in/product/oneplus-12...",
       "domain": "zepto.in",
       "category": "Quick Commerce",
-      "currentPrice": 61151,
-      "previousPrice": 62425,
+      "currentPrice": 60257,
+      "previousPrice": 58787,
       "baselinePrice": 63699,
       "marketAvgPrice": 66299,
       "lowestPrice30d": 60239,
       "highestPrice30d": 63689,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 2.5,
       "frequency": "5m",
-      "lastChecked": "2026-10-31T21:01:51.161Z",
+      "lastChecked": "2026-11-16T06:31:42.089Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "Tamil Nadu",
@@ -658,7 +659,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 61151,
+          "price": 60257,
           "baselinePrice": 63699,
           "marketAvg": 66299
         }
@@ -670,16 +671,16 @@
       "url": "https://www.croma.com/p/google-pixel-9...",
       "domain": "croma.com",
       "category": "Mobile",
-      "currentPrice": 117599,
-      "previousPrice": 120049,
+      "currentPrice": 113934,
+      "previousPrice": 110723,
       "baselinePrice": 122499,
       "marketAvgPrice": 127499,
-      "lowestPrice30d": 115845,
+      "lowestPrice30d": 113934,
       "highestPrice30d": 122480,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 2.9,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:58:06.119Z",
+      "lastChecked": "2026-11-16T06:33:12.095Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Delhi (NCT)",
@@ -863,7 +864,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 117599,
+          "price": 113934,
           "baselinePrice": 122499,
           "marketAvg": 127499
         }
@@ -875,16 +876,16 @@
       "url": "https://www.reliancedigital.in/p/vivo-x100...",
       "domain": "reliancedigital.in",
       "category": "Mobile",
-      "currentPrice": 81512,
-      "previousPrice": 83210,
+      "currentPrice": 76303,
+      "previousPrice": 80319,
       "baselinePrice": 84908,
       "marketAvgPrice": 91799,
-      "lowestPrice30d": 80296,
+      "lowestPrice30d": 76303,
       "highestPrice30d": 84895,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -5,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:58:51.121Z",
+      "lastChecked": "2026-11-16T06:20:26.994Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Telangana",
@@ -1068,7 +1069,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 81512,
+          "price": 76303,
           "baselinePrice": 84908,
           "marketAvg": 91799
         }
@@ -1080,16 +1081,16 @@
       "url": "https://www.amazon.in/dp/B0CX21...",
       "domain": "amazon.in",
       "category": "Mobile",
-      "currentPrice": 94079,
-      "previousPrice": 96039,
+      "currentPrice": 95192,
+      "previousPrice": 99365,
       "baselinePrice": 97999,
       "marketAvgPrice": 101999,
       "lowestPrice30d": 92676,
       "highestPrice30d": 97983,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -4.2,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T21:00:21.141Z",
+      "lastChecked": "2026-11-16T06:33:57.101Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "Maharashtra",
@@ -1273,7 +1274,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 94079,
+          "price": 95192,
           "baselinePrice": 97999,
           "marketAvg": 101999
         }
@@ -1285,16 +1286,16 @@
       "url": "https://www.amazon.in/dp/B0CMPL...",
       "domain": "amazon.in",
       "category": "Computers",
-      "currentPrice": 329186,
-      "previousPrice": 336044,
+      "currentPrice": 317561,
+      "previousPrice": 326709,
       "baselinePrice": 342902,
       "marketAvgPrice": 356898,
-      "lowestPrice30d": 324276,
+      "lowestPrice30d": 317561,
       "highestPrice30d": 342848,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -2.8,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:42:20.929Z",
+      "lastChecked": "2026-11-16T06:24:12.013Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Maharashtra",
@@ -1478,7 +1479,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 329186,
+          "price": 317561,
           "baselinePrice": 342902,
           "marketAvg": 356898
         }
@@ -1490,16 +1491,16 @@
       "url": "https://www.reliancedigital.in/p/macbook-air-15...",
       "domain": "reliancedigital.in",
       "category": "Computers",
-      "currentPrice": 145730,
-      "previousPrice": 148766,
+      "currentPrice": 152434,
+      "previousPrice": 145730,
       "baselinePrice": 151802,
       "marketAvgPrice": 157998,
       "lowestPrice30d": 143556,
-      "highestPrice30d": 151778,
+      "highestPrice30d": 152434,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 4.6,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T19:33:20.193Z",
+      "lastChecked": "2026-11-16T05:12:56.319Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Telangana",
@@ -1683,7 +1684,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 145730,
+          "price": 152434,
           "baselinePrice": 151802,
           "marketAvg": 157998
         }
@@ -1695,16 +1696,16 @@
       "url": "https://www.dell.com/en-in/shop/dell-laptops/...",
       "domain": "dell.com",
       "category": "Computers",
-      "currentPrice": 272822,
-      "previousPrice": 278506,
+      "currentPrice": 279463,
+      "previousPrice": 286629,
       "baselinePrice": 284190,
       "marketAvgPrice": 295790,
       "lowestPrice30d": 268753,
       "highestPrice30d": 284145,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -2.5,
       "frequency": "30m",
-      "lastChecked": "2026-10-31T21:04:06.182Z",
+      "lastChecked": "2026-11-16T06:29:27.074Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Karnataka",
@@ -1888,7 +1889,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 272822,
+          "price": 279463,
           "baselinePrice": 284190,
           "marketAvg": 295790
         }
@@ -1900,16 +1901,16 @@
       "url": "https://www.flipkart.com/asus-rog-zephyrus-g16...",
       "domain": "flipkart.com",
       "category": "Computers",
-      "currentPrice": 263414,
-      "previousPrice": 268902,
+      "currentPrice": 284255,
+      "previousPrice": 278955,
       "baselinePrice": 274390,
       "marketAvgPrice": 285590,
       "lowestPrice30d": 259485,
-      "highestPrice30d": 274347,
+      "highestPrice30d": 284255,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 1.9,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:54:21.070Z",
+      "lastChecked": "2026-11-16T05:52:41.740Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "West Bengal",
@@ -2093,7 +2094,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 263414,
+          "price": 284255,
           "baselinePrice": 274390,
           "marketAvg": 285590
         }
@@ -2105,16 +2106,16 @@
       "url": "https://www.amazon.in/dp/B0D5N3...",
       "domain": "amazon.in",
       "category": "Computers",
-      "currentPrice": 301046,
-      "previousPrice": 307318,
+      "currentPrice": 279422,
+      "previousPrice": 301426,
       "baselinePrice": 313590,
       "marketAvgPrice": 326390,
-      "lowestPrice30d": 296556,
+      "lowestPrice30d": 279422,
       "highestPrice30d": 313540,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -7.3,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:55:06.072Z",
+      "lastChecked": "2026-11-16T06:21:12.000Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Gujarat",
@@ -2298,7 +2299,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 301046,
+          "price": 279422,
           "baselinePrice": 313590,
           "marketAvg": 326390
         }
@@ -2310,16 +2311,16 @@
       "url": "https://www.croma.com/p/hp-spectre-x360...",
       "domain": "croma.com",
       "category": "Computers",
-      "currentPrice": 159926,
-      "previousPrice": 163258,
+      "currentPrice": 148059,
+      "previousPrice": 151390,
       "baselinePrice": 166590,
       "marketAvgPrice": 173390,
-      "lowestPrice30d": 157541,
+      "lowestPrice30d": 148059,
       "highestPrice30d": 166564,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -2.2,
       "frequency": "30m",
-      "lastChecked": "2026-10-31T20:37:50.871Z",
+      "lastChecked": "2026-11-16T06:23:27.009Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Rajasthan",
@@ -2503,7 +2504,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 159926,
+          "price": 148059,
           "baselinePrice": 166590,
           "marketAvg": 173390
         }
@@ -2515,16 +2516,16 @@
       "url": "https://blinkit.com/prn/sony-wh1000xm5...",
       "domain": "blinkit.com",
       "category": "Quick Commerce",
-      "currentPrice": 28214,
-      "previousPrice": 28802,
+      "currentPrice": 26466,
+      "previousPrice": 24851,
       "baselinePrice": 29390,
       "marketAvgPrice": 30590,
-      "lowestPrice30d": 27794,
+      "lowestPrice30d": 26466,
       "highestPrice30d": 29385,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 6.5,
       "frequency": "5m",
-      "lastChecked": "2026-10-31T20:52:51.058Z",
+      "lastChecked": "2026-11-16T06:27:12.048Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "Karnataka",
@@ -2708,7 +2709,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 28214,
+          "price": 26466,
           "baselinePrice": 29390,
           "marketAvg": 30590
         }
@@ -2720,16 +2721,16 @@
       "url": "https://www.tatacliq.com/apple-airpods-pro-2...",
       "domain": "tatacliq.com",
       "category": "Audio",
-      "currentPrice": 23426,
-      "previousPrice": 23914,
+      "currentPrice": 20457,
+      "previousPrice": 22044,
       "baselinePrice": 24402,
       "marketAvgPrice": 25398,
-      "lowestPrice30d": 23077,
+      "lowestPrice30d": 20457,
       "highestPrice30d": 24398,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -7.2,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T20:46:50.984Z",
+      "lastChecked": "2026-11-16T05:42:56.649Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Delhi (NCT)",
@@ -2913,7 +2914,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 23426,
+          "price": 20457,
           "baselinePrice": 24402,
           "marketAvg": 25398
         }
@@ -2925,16 +2926,16 @@
       "url": "https://www.amazon.in/dp/B0CCZ1...",
       "domain": "amazon.in",
       "category": "Audio",
-      "currentPrice": 33775,
-      "previousPrice": 34478,
+      "currentPrice": 37297,
+      "previousPrice": 37981,
       "baselinePrice": 35182,
       "marketAvgPrice": 36618,
       "lowestPrice30d": 33271,
-      "highestPrice30d": 35176,
+      "highestPrice30d": 37297,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -1.8,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:49:51.024Z",
+      "lastChecked": "2026-11-16T06:27:57.054Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Maharashtra",
@@ -3118,7 +3119,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 33775,
+          "price": 37297,
           "baselinePrice": 35182,
           "marketAvg": 36618
         }
@@ -3130,16 +3131,16 @@
       "url": "https://www.croma.com/p/apple-watch-s10...",
       "domain": "croma.com",
       "category": "Audio",
-      "currentPrice": 79874,
-      "previousPrice": 81538,
+      "currentPrice": 70405,
+      "previousPrice": 74819,
       "baselinePrice": 83202,
       "marketAvgPrice": 86598,
-      "lowestPrice30d": 78683,
+      "lowestPrice30d": 70405,
       "highestPrice30d": 83189,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -5.9,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T21:04:51.187Z",
+      "lastChecked": "2026-11-16T06:36:12.111Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Maharashtra",
@@ -3323,7 +3324,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 79874,
+          "price": 70405,
           "baselinePrice": 83202,
           "marketAvg": 86598
         }
@@ -3335,16 +3336,16 @@
       "url": "https://www.flipkart.com/samsung-galaxy-watch-ultra...",
       "domain": "flipkart.com",
       "category": "Audio",
-      "currentPrice": 56447,
-      "previousPrice": 57623,
+      "currentPrice": 59819,
+      "previousPrice": 62507,
       "baselinePrice": 58799,
       "marketAvgPrice": 61199,
       "lowestPrice30d": 55605,
-      "highestPrice30d": 58790,
+      "highestPrice30d": 59819,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -4.3,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T20:33:20.810Z",
+      "lastChecked": "2026-11-16T06:25:42.034Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "Tamil Nadu",
@@ -3528,7 +3529,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 56447,
+          "price": 59819,
           "baselinePrice": 58799,
           "marketAvg": 61199
         }
@@ -3540,16 +3541,16 @@
       "url": "https://www.reliancedigital.in/p/sennheiser-m4...",
       "domain": "reliancedigital.in",
       "category": "Audio",
-      "currentPrice": 32918,
-      "previousPrice": 33604,
+      "currentPrice": 34085,
+      "previousPrice": 33449,
       "baselinePrice": 34290,
       "marketAvgPrice": 35690,
       "lowestPrice30d": 32427,
       "highestPrice30d": 34285,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 1.9,
       "frequency": "30m",
-      "lastChecked": "2026-10-31T21:01:06.146Z",
+      "lastChecked": "2026-11-16T06:34:42.108Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Kerala",
@@ -3733,7 +3734,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 32918,
+          "price": 34085,
           "baselinePrice": 34290,
           "marketAvg": 35690
         }
@@ -3745,16 +3746,16 @@
       "url": "https://www.croma.com/p/268923...",
       "domain": "croma.com",
       "category": "Displays",
-      "currentPrice": 63024,
-      "previousPrice": 64337,
+      "currentPrice": 59887,
+      "previousPrice": 58369,
       "baselinePrice": 65650,
       "marketAvgPrice": 68330,
-      "lowestPrice30d": 62084,
+      "lowestPrice30d": 59887,
       "highestPrice30d": 65640,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 2.6,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:47:35.997Z",
+      "lastChecked": "2026-11-16T06:35:27.109Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Delhi (NCT)",
@@ -3938,7 +3939,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 63024,
+          "price": 59887,
           "baselinePrice": 65650,
           "marketAvg": 68330
         }
@@ -3950,16 +3951,16 @@
       "url": "https://www.reliancedigital.in/p/lg-oled55c3...",
       "domain": "reliancedigital.in",
       "category": "Displays",
-      "currentPrice": 131702,
-      "previousPrice": 134446,
+      "currentPrice": 120507,
+      "previousPrice": 127117,
       "baselinePrice": 137190,
       "marketAvgPrice": 142790,
-      "lowestPrice30d": 129738,
+      "lowestPrice30d": 120507,
       "highestPrice30d": 137168,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -5.2,
       "frequency": "15m",
-      "lastChecked": "2026-10-31T20:52:06.046Z",
+      "lastChecked": "2026-11-16T06:05:26.846Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Karnataka",
@@ -4143,7 +4144,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 131702,
+          "price": 120507,
           "baselinePrice": 137190,
           "marketAvg": 142790
         }
@@ -4155,16 +4156,16 @@
       "url": "https://www.amazon.in/dp/B0D4K2...",
       "domain": "amazon.in",
       "category": "Displays",
-      "currentPrice": 216374,
-      "previousPrice": 220882,
+      "currentPrice": 215463,
+      "previousPrice": 226327,
       "baselinePrice": 225390,
       "marketAvgPrice": 234590,
       "lowestPrice30d": 213147,
       "highestPrice30d": 225354,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -4.8,
       "frequency": "30m",
-      "lastChecked": "2026-10-31T20:38:35.886Z",
+      "lastChecked": "2026-11-16T05:31:41.525Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Maharashtra",
@@ -4348,7 +4349,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 216374,
+          "price": 215463,
           "baselinePrice": 225390,
           "marketAvg": 234590
         }
@@ -4360,16 +4361,16 @@
       "url": "https://www.amazon.in/dp/B0B5N8...",
       "domain": "amazon.in",
       "category": "Displays",
-      "currentPrice": 84671,
-      "previousPrice": 86435,
+      "currentPrice": 74710,
+      "previousPrice": 72323,
       "baselinePrice": 88199,
       "marketAvgPrice": 91799,
-      "lowestPrice30d": 83408,
+      "lowestPrice30d": 74710,
       "highestPrice30d": 88185,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": 3.3,
       "frequency": "30m",
-      "lastChecked": "2026-10-31T20:09:20.566Z",
+      "lastChecked": "2026-11-16T05:54:56.763Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Telangana",
@@ -4553,7 +4554,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 84671,
+          "price": 74710,
           "baselinePrice": 88199,
           "marketAvg": 91799
         }
@@ -4565,16 +4566,16 @@
       "url": "https://www.flipkart.com/benq-pd3205u...",
       "domain": "flipkart.com",
       "category": "Displays",
-      "currentPrice": 68669,
-      "previousPrice": 70099,
+      "currentPrice": 66989,
+      "previousPrice": 68919,
       "baselinePrice": 71530,
       "marketAvgPrice": 74450,
-      "lowestPrice30d": 67645,
+      "lowestPrice30d": 66989,
       "highestPrice30d": 71519,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -2.8,
       "frequency": "1h",
-      "lastChecked": "2026-10-31T20:06:20.534Z",
+      "lastChecked": "2026-11-16T06:32:27.090Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "West Bengal",
@@ -4758,7 +4759,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 68669,
+          "price": 66989,
           "baselinePrice": 71530,
           "marketAvg": 74450
         }
@@ -4770,16 +4771,16 @@
       "url": "https://zepto.in/product/dyson-v12...",
       "domain": "zepto.in",
       "category": "Quick Commerce",
-      "currentPrice": 52591,
-      "previousPrice": 53686,
+      "currentPrice": 45949,
+      "previousPrice": 48572,
       "baselinePrice": 54782,
       "marketAvgPrice": 57018,
-      "lowestPrice30d": 51806,
+      "lowestPrice30d": 45949,
       "highestPrice30d": 54773,
       "currency": "INR",
-      "changePercent": -2,
+      "changePercent": -5.4,
       "frequency": "5m",
-      "lastChecked": "2026-10-31T20:57:21.107Z",
+      "lastChecked": "2026-11-16T06:26:27.043Z",
       "status": "active",
       "stockStatus": "low_stock",
       "state": "Maharashtra",
@@ -4963,7 +4964,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 52591,
+          "price": 45949,
           "baselinePrice": 54782,
           "marketAvg": 57018
         }
@@ -5180,16 +5181,16 @@
       "url": "https://blinkit.com/prn/instant-pot-pro...",
       "domain": "blinkit.com",
       "category": "Quick Commerce",
-      "currentPrice": 14111,
-      "previousPrice": 14405,
+      "currentPrice": 12797,
+      "previousPrice": 13058,
       "baselinePrice": 14699,
       "marketAvgPrice": 15299,
-      "lowestPrice30d": 13901,
+      "lowestPrice30d": 12797,
       "highestPrice30d": 14697,
       "currency": "INR",
       "changePercent": -2,
       "frequency": "10m",
-      "lastChecked": "2026-10-31T20:56:36.092Z",
+      "lastChecked": "2026-11-16T06:30:57.086Z",
       "status": "active",
       "stockStatus": "in_stock",
       "state": "Haryana",
@@ -5373,7 +5374,7 @@
         },
         {
           "date": "2026-11-16",
-          "price": 14111,
+          "price": 12797,
           "baselinePrice": 14699,
           "marketAvg": 15299
         }
@@ -5381,6 +5382,318 @@
     }
   ],
   "alerts": [
+    {
+      "id": "alt-3445c8d9",
+      "monitorId": "mon-in-16",
+      "monitorName": "Apple Watch Series 10 Titanium GPS + Cellular 46mm",
+      "title": "Mumbai Price Drop (-5.9%)",
+      "message": "Apple Watch Series 10 Titanium GPS + Cellular 46mm price dropped by 5.9% to ₹70405 on croma.com in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:36:12.111Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-17dbe430",
+      "monitorId": "mon-in-24",
+      "monitorName": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto)",
+      "title": "Mumbai Price Drop (-5.4%)",
+      "message": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) price dropped by 5.4% to ₹45949 on zepto.in in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:26:27.043Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-2b80860c",
+      "monitorId": "mon-in-13",
+      "monitorName": "Sony WH-1000XM5 ANC Wireless Headphones (Blinkit)",
+      "title": "Bengaluru Price Drop (-5.3%)",
+      "message": "Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) price dropped by 5.3% to ₹24851 on blinkit.com in Bengaluru, Karnataka.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:21:57.002Z",
+      "read": false,
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-19c22f2b",
+      "monitorId": "mon-in-11",
+      "monitorName": "Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090",
+      "title": "Ahmedabad Price Drop (-7.3%)",
+      "message": "Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 price dropped by 7.3% to ₹279422 on amazon.in in Ahmedabad, Gujarat.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:21:12.000Z",
+      "read": false,
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-44a8ab1f",
+      "monitorId": "mon-in-5",
+      "monitorName": "Vivo X100 Pro 5G 512GB Asteroid Black",
+      "title": "Hyderabad Price Drop (-6.6%)",
+      "message": "Vivo X100 Pro 5G 512GB Asteroid Black price dropped by 6.6% to ₹80319 on reliancedigital.in in Hyderabad, Telangana.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:18:11.980Z",
+      "read": false,
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-2c3a80bc",
+      "monitorId": "mon-in-4",
+      "monitorName": "Google Pixel 9 Pro XL 256GB Hazel",
+      "title": "New Delhi Price Drop (-5.6%)",
+      "message": "Google Pixel 9 Pro XL 256GB Hazel price dropped by 5.6% to ₹112777 on croma.com in New Delhi, Delhi (NCT).",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:15:11.946Z",
+      "read": false,
+      "state": "Delhi (NCT)",
+      "city": "New Delhi",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-c13972fc",
+      "monitorId": "mon-in-3",
+      "monitorName": "OnePlus 12 512GB Silky Black (Zepto Fast Dispatch)",
+      "title": "Chennai Price Drop (-6%)",
+      "message": "OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) price dropped by 6% to ₹55470 on zepto.in in Chennai, Tamil Nadu.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:09:11.891Z",
+      "read": false,
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-27e4904c",
+      "monitorId": "mon-in-20",
+      "monitorName": "LG C3 55\" 4K OLED Smart TV Evo Panel",
+      "title": "Bengaluru Price Drop (-5.2%)",
+      "message": "LG C3 55\" 4K OLED Smart TV Evo Panel price dropped by 5.2% to ₹120507 on reliancedigital.in in Bengaluru, Karnataka.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T06:05:26.846Z",
+      "read": false,
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-76f303e2",
+      "monitorId": "mon-in-7",
+      "monitorName": "Apple MacBook Pro 16\" M3 Max 36GB / 1TB",
+      "title": "Mumbai Price Drop (-7.1%)",
+      "message": "Apple MacBook Pro 16\" M3 Max 36GB / 1TB price dropped by 7.1% to ₹326709 on amazon.in in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:57:56.779Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-9c5a2eb4",
+      "monitorId": "mon-in-4",
+      "monitorName": "Google Pixel 9 Pro XL 256GB Hazel",
+      "title": "New Delhi Price Drop (-6.2%)",
+      "message": "Google Pixel 9 Pro XL 256GB Hazel price dropped by 6.2% to ₹117478 on croma.com in New Delhi, Delhi (NCT).",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:55:41.768Z",
+      "read": false,
+      "state": "Delhi (NCT)",
+      "city": "New Delhi",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-184d054d",
+      "monitorId": "mon-in-11",
+      "monitorName": "Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090",
+      "title": "Ahmedabad Price Drop (-6.1%)",
+      "message": "Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 price dropped by 6.1% to ₹271092 on amazon.in in Ahmedabad, Gujarat.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:54:11.756Z",
+      "read": false,
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-21de84b4",
+      "monitorId": "mon-in-16",
+      "monitorName": "Apple Watch Series 10 Titanium GPS + Cellular 46mm",
+      "title": "Mumbai Price Drop (-6.7%)",
+      "message": "Apple Watch Series 10 Titanium GPS + Cellular 46mm price dropped by 6.7% to ₹75319 on croma.com in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:47:26.708Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-fa0cac23",
+      "monitorId": "mon-in-24",
+      "monitorName": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto)",
+      "title": "Mumbai Price Drop (-6.7%)",
+      "message": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) price dropped by 6.7% to ₹45352 on zepto.in in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:44:26.668Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-efe1093d",
+      "monitorId": "mon-in-14",
+      "monitorName": "Apple AirPods Pro 2nd Gen USB-C MagSafe",
+      "title": "New Delhi Price Drop (-7.2%)",
+      "message": "Apple AirPods Pro 2nd Gen USB-C MagSafe price dropped by 7.2% to ₹20457 on tatacliq.com in New Delhi, Delhi (NCT).",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:42:56.649Z",
+      "read": false,
+      "state": "Delhi (NCT)",
+      "city": "New Delhi",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-f5b5bddc",
+      "monitorId": "mon-in-14",
+      "monitorName": "Apple AirPods Pro 2nd Gen USB-C MagSafe",
+      "title": "New Delhi Price Drop (-5.9%)",
+      "message": "Apple AirPods Pro 2nd Gen USB-C MagSafe price dropped by 5.9% to ₹22044 on tatacliq.com in New Delhi, Delhi (NCT).",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:34:41.550Z",
+      "read": false,
+      "state": "Delhi (NCT)",
+      "city": "New Delhi",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-16916be3",
+      "monitorId": "mon-in-20",
+      "monitorName": "LG C3 55\" 4K OLED Smart TV Evo Panel",
+      "title": "Bengaluru Price Drop (-6.3%)",
+      "message": "LG C3 55\" 4K OLED Smart TV Evo Panel price dropped by 6.3% to ₹129945 on reliancedigital.in in Bengaluru, Karnataka.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:33:56.539Z",
+      "read": false,
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-61c63fdc",
+      "monitorId": "mon-in-17",
+      "monitorName": "Samsung Galaxy Watch Ultra LTE 47mm Titanium",
+      "title": "Chennai Price Drop (-7.3%)",
+      "message": "Samsung Galaxy Watch Ultra LTE 47mm Titanium price dropped by 7.3% to ₹55047 on flipkart.com in Chennai, Tamil Nadu.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:29:26.511Z",
+      "read": false,
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-4dc0f444",
+      "monitorId": "mon-in-22",
+      "monitorName": "Dell UltraSharp 32\" 4K USB-C Hub Monitor (IPS Black)",
+      "title": "Hyderabad Price Drop (-6.6%)",
+      "message": "Dell UltraSharp 32\" 4K USB-C Hub Monitor (IPS Black) price dropped by 6.6% to ₹72323 on amazon.in in Hyderabad, Telangana.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:23:26.438Z",
+      "read": false,
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-a22c06d0",
+      "monitorId": "mon-in-24",
+      "monitorName": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto)",
+      "title": "Mumbai Price Drop (-5.2%)",
+      "message": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) price dropped by 5.2% to ₹46516 on zepto.in in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:21:56.411Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-46429cd5",
+      "monitorId": "mon-in-22",
+      "monitorName": "Dell UltraSharp 32\" 4K USB-C Hub Monitor (IPS Black)",
+      "title": "Hyderabad Price Drop (-6.1%)",
+      "message": "Dell UltraSharp 32\" 4K USB-C Hub Monitor (IPS Black) price dropped by 6.1% to ₹76326 on amazon.in in Hyderabad, Telangana.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:21:11.411Z",
+      "read": false,
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-15a15c23",
+      "monitorId": "mon-in-23",
+      "monitorName": "BenQ PD3205U 32\" 4K Designer Monitor sRGB/HDR",
+      "title": "Kolkata Price Drop (-6.5%)",
+      "message": "BenQ PD3205U 32\" 4K Designer Monitor sRGB/HDR price dropped by 6.5% to ₹64206 on flipkart.com in Kolkata, West Bengal.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:20:26.407Z",
+      "read": false,
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-ba938808",
+      "monitorId": "mon-in-24",
+      "monitorName": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto)",
+      "title": "Mumbai Price Drop (-6.7%)",
+      "message": "Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) price dropped by 6.7% to ₹49067 on zepto.in in Mumbai, Maharashtra.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:19:41.392Z",
+      "read": false,
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-601617c3",
+      "monitorId": "mon-in-13",
+      "monitorName": "Sony WH-1000XM5 ANC Wireless Headphones (Blinkit)",
+      "title": "Bengaluru Price Drop (-7.2%)",
+      "message": "Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) price dropped by 7.2% to ₹26183 on blinkit.com in Bengaluru, Karnataka.",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:16:41.364Z",
+      "read": false,
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "isGovtAlert": false
+    },
+    {
+      "id": "alt-4a7a0730",
+      "monitorId": "mon-in-19",
+      "monitorName": "Samsung 65\" Crystal 4K UHD Smart TV (2026 Model)",
+      "title": "New Delhi Price Drop (-6.4%)",
+      "message": "Samsung 65\" Crystal 4K UHD Smart TV (2026 Model) price dropped by 6.4% to ₹58990 on croma.com in New Delhi, Delhi (NCT).",
+      "severity": "warning",
+      "timestamp": "2026-11-16T05:13:41.335Z",
+      "read": false,
+      "state": "Delhi (NCT)",
+      "city": "New Delhi",
+      "isGovtAlert": false
+    },
     {
       "id": "alt-5ca17a63",
       "monitorId": "mon-in-16",
@@ -11988,353 +12301,353 @@
   ],
   "logs": [
     {
-      "id": "log-91634490",
-      "timestamp": "2026-10-31T21:04:51.187Z",
+      "id": "log-df85c0e6",
+      "timestamp": "2026-11-16T06:36:12.111Z",
       "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Mumbai Price Drop (-10.6%)\"",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Mumbai Price Drop (-5.9%)\"",
       "status": "success"
     },
     {
-      "id": "log-1ef0a161",
-      "timestamp": "2026-10-31T21:04:06.185Z",
+      "id": "log-aabb982e",
+      "timestamp": "2026-11-16T06:35:27.111Z",
       "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Dell XPS 15 9530 OLED Touch Core i9 32GB in Bengaluru.",
+      "action": "Automated probe cycle completed for Samsung 65\" Crystal 4K UHD Smart TV (2026 Model) in New Delhi.",
       "status": "success"
     },
     {
-      "id": "log-b63be24f",
-      "timestamp": "2026-10-31T21:04:06.182Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Bengaluru Price Drop (-8.1%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-68d1ec4a",
-      "timestamp": "2026-10-31T21:03:21.183Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-870a83a7",
-      "timestamp": "2026-10-31T21:03:21.180Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-11.7%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-ca3ad127",
-      "timestamp": "2026-10-31T21:02:36.171Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Dell XPS 15 9530 OLED Touch Core i9 32GB in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-c2e9bf82",
-      "timestamp": "2026-10-31T21:02:36.168Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Bengaluru Price Drop (-8.1%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-e29b95da",
-      "timestamp": "2026-10-31T21:01:51.163Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
-      "status": "success"
-    },
-    {
-      "id": "log-9927c376",
-      "timestamp": "2026-10-31T21:01:06.148Z",
+      "id": "log-96fb6e38",
+      "timestamp": "2026-11-16T06:34:42.113Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for Sennheiser Momentum 4 Wireless Audiophile ANC in Kochi.",
       "status": "success"
     },
     {
-      "id": "log-081c73f9",
-      "timestamp": "2026-10-31T21:01:06.146Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-12%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-91b63809",
-      "timestamp": "2026-10-31T21:00:21.144Z",
+      "id": "log-e4f64fdc",
+      "timestamp": "2026-11-16T06:33:57.104Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for Xiaomi 14 Ultra 512GB Leica Optics in Pune.",
       "status": "success"
     },
     {
-      "id": "log-4aa89a45",
-      "timestamp": "2026-10-31T20:59:36.130Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Sennheiser Momentum 4 Wireless Audiophile ANC in Kochi.",
-      "status": "success"
-    },
-    {
-      "id": "log-7598ed8c",
-      "timestamp": "2026-10-31T20:59:36.127Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Kochi Price Drop (-7.2%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-207fa067",
-      "timestamp": "2026-10-31T20:58:51.124Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Vivo X100 Pro 5G 512GB Asteroid Black in Hyderabad.",
-      "status": "success"
-    },
-    {
-      "id": "log-5d8620e8",
-      "timestamp": "2026-10-31T20:58:51.122Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-14.4%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-96ce1b84",
-      "timestamp": "2026-10-31T20:58:06.122Z",
+      "id": "log-fed08c1c",
+      "timestamp": "2026-11-16T06:33:12.098Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
       "status": "success"
     },
     {
-      "id": "log-eca986f6",
-      "timestamp": "2026-10-31T20:57:21.110Z",
+      "id": "log-251e2c8b",
+      "timestamp": "2026-11-16T06:32:27.094Z",
       "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) in Mumbai.",
+      "action": "Automated probe cycle completed for BenQ PD3205U 32\" 4K Designer Monitor sRGB/HDR in Kolkata.",
       "status": "success"
     },
     {
-      "id": "log-b31305ed",
-      "timestamp": "2026-10-31T20:57:21.107Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-12.3%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-fbbb4399",
-      "timestamp": "2026-10-31T20:56:36.095Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Instant Pot Pro 10-in-1 Smart Electric Pressure Cooker in Gurugram.",
-      "status": "success"
-    },
-    {
-      "id": "log-af6b6d97",
-      "timestamp": "2026-10-31T20:56:36.092Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-13.2%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-4700bd99",
-      "timestamp": "2026-10-31T20:55:51.086Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-ea642f4d",
-      "timestamp": "2026-10-31T20:55:51.083Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-13.4%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-9ddd5244",
-      "timestamp": "2026-10-31T20:55:06.077Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 in Ahmedabad.",
-      "status": "success"
-    },
-    {
-      "id": "log-be74f0de",
-      "timestamp": "2026-10-31T20:54:21.072Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for ASUS ROG Zephyrus G16 OLED Core Ultra 9 RTX 4080 in Kolkata.",
-      "status": "success"
-    },
-    {
-      "id": "log-6e00508c",
-      "timestamp": "2026-10-31T20:54:21.070Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Kolkata Price Drop (-6.2%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-0d41edd5",
-      "timestamp": "2026-10-31T20:53:36.065Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
-      "status": "success"
-    },
-    {
-      "id": "log-4766061f",
-      "timestamp": "2026-10-31T20:52:51.060Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-ba4690fe",
-      "timestamp": "2026-10-31T20:52:06.049Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for LG C3 55\" 4K OLED Smart TV Evo Panel in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-0ca9a785",
-      "timestamp": "2026-10-31T20:51:21.037Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-b38e3da1",
-      "timestamp": "2026-10-31T20:51:21.035Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Bengaluru Price Drop (-11%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-4d235c93",
-      "timestamp": "2026-10-31T20:50:36.029Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Instant Pot Pro 10-in-1 Smart Electric Pressure Cooker in Gurugram.",
-      "status": "success"
-    },
-    {
-      "id": "log-e9b0ef51",
-      "timestamp": "2026-10-31T20:50:36.025Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Gurugram Price Drop (-8.7%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-f119f708",
-      "timestamp": "2026-10-31T20:49:51.026Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Bose QuietComfort Ultra Headphones Spatial Audio in Pune.",
-      "status": "success"
-    },
-    {
-      "id": "log-827c2cf8",
-      "timestamp": "2026-10-31T20:49:51.024Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-12.7%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-3fb1d3ea",
-      "timestamp": "2026-10-31T20:49:06.020Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Sennheiser Momentum 4 Wireless Audiophile ANC in Kochi.",
-      "status": "success"
-    },
-    {
-      "id": "log-1d5f40a3",
-      "timestamp": "2026-10-31T20:49:06.018Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Kochi Price Drop (-7.9%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-c4db52a4",
-      "timestamp": "2026-10-31T20:48:21.009Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Instant Pot Pro 10-in-1 Smart Electric Pressure Cooker in Gurugram.",
-      "status": "success"
-    },
-    {
-      "id": "log-0233f5f0",
-      "timestamp": "2026-10-31T20:47:35.999Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung 65\" Crystal 4K UHD Smart TV (2026 Model) in New Delhi.",
-      "status": "success"
-    },
-    {
-      "id": "log-c1250615",
-      "timestamp": "2026-10-31T20:46:50.987Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Apple AirPods Pro 2nd Gen USB-C MagSafe in New Delhi.",
-      "status": "success"
-    },
-    {
-      "id": "log-8775d5f8",
-      "timestamp": "2026-10-31T20:46:50.984Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"New Delhi Price Drop (-7.4%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-d85047dd",
-      "timestamp": "2026-10-31T20:46:05.976Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
-      "status": "success"
-    },
-    {
-      "id": "log-286140ac",
-      "timestamp": "2026-10-31T20:46:05.974Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-14.3%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-707b9471",
-      "timestamp": "2026-10-31T20:45:20.974Z",
+      "id": "log-387bf5b3",
+      "timestamp": "2026-11-16T06:31:42.094Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
       "status": "success"
     },
     {
-      "id": "log-41390dde",
-      "timestamp": "2026-10-31T20:45:20.971Z",
+      "id": "log-d47c5882",
+      "timestamp": "2026-11-16T06:30:57.091Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Instant Pot Pro 10-in-1 Smart Electric Pressure Cooker in Gurugram.",
+      "status": "success"
+    },
+    {
+      "id": "log-f93e2385",
+      "timestamp": "2026-11-16T06:30:12.086Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Sennheiser Momentum 4 Wireless Audiophile ANC in Kochi.",
+      "status": "success"
+    },
+    {
+      "id": "log-47fde87d",
+      "timestamp": "2026-11-16T06:29:27.082Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Dell XPS 15 9530 OLED Touch Core i9 32GB in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-006c0f2b",
+      "timestamp": "2026-11-16T06:28:42.071Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Apple Watch Series 10 Titanium GPS + Cellular 46mm in Mumbai.",
+      "status": "success"
+    },
+    {
+      "id": "log-aa295e48",
+      "timestamp": "2026-11-16T06:27:57.059Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Bose QuietComfort Ultra Headphones Spatial Audio in Pune.",
+      "status": "success"
+    },
+    {
+      "id": "log-294bfa5e",
+      "timestamp": "2026-11-16T06:27:12.052Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-9e338f8d",
+      "timestamp": "2026-11-16T06:26:27.047Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Dyson V12 Detect Slim Cordless Vacuum Cleaner (Zepto) in Mumbai.",
+      "status": "success"
+    },
+    {
+      "id": "log-9fac6588",
+      "timestamp": "2026-11-16T06:26:27.043Z",
       "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"CCI Predatory Pricing Breach (-11.2%)\"",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Mumbai Price Drop (-5.4%)\"",
       "status": "success"
     },
     {
-      "id": "log-3b96ca4b",
-      "timestamp": "2026-10-31T20:44:35.965Z",
+      "id": "log-1bfa5958",
+      "timestamp": "2026-11-16T06:25:42.037Z",
       "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
+      "action": "Automated probe cycle completed for Samsung Galaxy Watch Ultra LTE 47mm Titanium in Chennai.",
       "status": "success"
     },
     {
-      "id": "log-26521ce1",
-      "timestamp": "2026-10-31T20:43:50.955Z",
+      "id": "log-f3d69a97",
+      "timestamp": "2026-11-16T06:24:57.027Z",
       "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 in Ahmedabad.",
+      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
       "status": "success"
     },
     {
-      "id": "log-57aed4ac",
-      "timestamp": "2026-10-31T20:43:05.944Z",
-      "user": "Autonomous Crawler Mesh",
-      "action": "Automated probe cycle completed for Apple iPhone 16 Pro 256GB Desert Titanium in Mumbai.",
-      "status": "success"
-    },
-    {
-      "id": "log-34d3e5bf",
-      "timestamp": "2026-10-31T20:43:05.941Z",
-      "user": "Outbound Webhook Dispatcher",
-      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Mumbai Price Drop (-8.7%)\"",
-      "status": "success"
-    },
-    {
-      "id": "log-618f4564",
-      "timestamp": "2026-10-31T20:42:20.931Z",
+      "id": "log-7afddc38",
+      "timestamp": "2026-11-16T06:24:12.016Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for Apple MacBook Pro 16\" M3 Max 36GB / 1TB in Mumbai.",
       "status": "success"
     },
     {
-      "id": "log-30843d13",
-      "timestamp": "2026-10-31T20:41:35.922Z",
+      "id": "log-0a382aa0",
+      "timestamp": "2026-11-16T06:23:27.014Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for HP Spectre x360 14 2-in-1 OLED Core Ultra 7 in Jaipur.",
+      "status": "success"
+    },
+    {
+      "id": "log-27763351",
+      "timestamp": "2026-11-16T06:22:42.010Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
+      "status": "success"
+    },
+    {
+      "id": "log-33103198",
+      "timestamp": "2026-11-16T06:21:57.008Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-97c34274",
+      "timestamp": "2026-11-16T06:21:57.002Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Bengaluru Price Drop (-5.3%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-56560a83",
+      "timestamp": "2026-11-16T06:21:12.004Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 in Ahmedabad.",
+      "status": "success"
+    },
+    {
+      "id": "log-a015401a",
+      "timestamp": "2026-11-16T06:21:12.000Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Ahmedabad Price Drop (-7.3%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-43daaf0d",
+      "timestamp": "2026-11-16T06:20:26.998Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Vivo X100 Pro 5G 512GB Asteroid Black in Hyderabad.",
+      "status": "success"
+    },
+    {
+      "id": "log-3aece9e5",
+      "timestamp": "2026-11-16T06:19:41.993Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-efda2466",
+      "timestamp": "2026-11-16T06:18:56.989Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-61460a64",
+      "timestamp": "2026-11-16T06:18:11.989Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Vivo X100 Pro 5G 512GB Asteroid Black in Hyderabad.",
+      "status": "success"
+    },
+    {
+      "id": "log-69eb72a9",
+      "timestamp": "2026-11-16T06:18:11.980Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Hyderabad Price Drop (-6.6%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-2c9e30a2",
+      "timestamp": "2026-11-16T06:17:26.978Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
+      "status": "success"
+    },
+    {
+      "id": "log-41906f1b",
+      "timestamp": "2026-11-16T06:16:41.968Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Samsung Galaxy S24 Ultra 512GB Titanium Gray in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-1195699c",
+      "timestamp": "2026-11-16T06:15:56.953Z",
       "user": "Autonomous Crawler Mesh",
       "action": "Automated probe cycle completed for Samsung 65\" Crystal 4K UHD Smart TV (2026 Model) in New Delhi.",
+      "status": "success"
+    },
+    {
+      "id": "log-9657730b",
+      "timestamp": "2026-11-16T06:15:11.949Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
+      "status": "success"
+    },
+    {
+      "id": "log-2cef50db",
+      "timestamp": "2026-11-16T06:15:11.946Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"New Delhi Price Drop (-5.6%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-ed2e8a69",
+      "timestamp": "2026-11-16T06:14:26.949Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Samsung Galaxy Watch Ultra LTE 47mm Titanium in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-2ede7acf",
+      "timestamp": "2026-11-16T06:13:41.941Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 in Ahmedabad.",
+      "status": "success"
+    },
+    {
+      "id": "log-c1819355",
+      "timestamp": "2026-11-16T06:12:56.939Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Xiaomi 14 Ultra 512GB Leica Optics in Pune.",
+      "status": "success"
+    },
+    {
+      "id": "log-fd59a4f3",
+      "timestamp": "2026-11-16T06:12:11.941Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Lenovo Legion Pro 7i Gen 9 Core i9 RTX 4090 in Ahmedabad.",
+      "status": "success"
+    },
+    {
+      "id": "log-698f366b",
+      "timestamp": "2026-11-16T06:11:26.926Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-c91ee086",
+      "timestamp": "2026-11-16T06:10:41.912Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Apple iPhone 16 Pro 256GB Desert Titanium in Mumbai.",
+      "status": "success"
+    },
+    {
+      "id": "log-0bff0f47",
+      "timestamp": "2026-11-16T06:09:56.905Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Samsung Galaxy Watch Ultra LTE 47mm Titanium in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-8918bf27",
+      "timestamp": "2026-11-16T06:09:11.893Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for OnePlus 12 512GB Silky Black (Zepto Fast Dispatch) in Chennai.",
+      "status": "success"
+    },
+    {
+      "id": "log-e3acfd88",
+      "timestamp": "2026-11-16T06:09:11.891Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Chennai Price Drop (-6%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-6c216e81",
+      "timestamp": "2026-11-16T06:08:26.886Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Apple Watch Series 10 Titanium GPS + Cellular 46mm in Mumbai.",
+      "status": "success"
+    },
+    {
+      "id": "log-692e037a",
+      "timestamp": "2026-11-16T06:07:41.874Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Google Pixel 9 Pro XL 256GB Hazel in New Delhi.",
+      "status": "success"
+    },
+    {
+      "id": "log-c418d875",
+      "timestamp": "2026-11-16T06:06:56.868Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Apple iPhone 16 Pro 256GB Desert Titanium in Mumbai.",
+      "status": "success"
+    },
+    {
+      "id": "log-fe6a2aca",
+      "timestamp": "2026-11-16T06:06:11.853Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Sony WH-1000XM5 ANC Wireless Headphones (Blinkit) in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-f77e8a0a",
+      "timestamp": "2026-11-16T06:05:26.849Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for LG C3 55\" 4K OLED Smart TV Evo Panel in Bengaluru.",
+      "status": "success"
+    },
+    {
+      "id": "log-56a7585c",
+      "timestamp": "2026-11-16T06:05:26.846Z",
+      "user": "Outbound Webhook Dispatcher",
+      "action": "Dispatched JSON event payload to https://api.sentinel.internal/webhooks/pricing for alert \"Bengaluru Price Drop (-5.2%)\"",
+      "status": "success"
+    },
+    {
+      "id": "log-143ffbca",
+      "timestamp": "2026-11-16T06:04:41.842Z",
+      "user": "Autonomous Crawler Mesh",
+      "action": "Automated probe cycle completed for Apple iPhone 16 Pro 256GB Desert Titanium in Mumbai.",
       "status": "success"
     }
   ]
