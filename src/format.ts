@@ -46,6 +46,16 @@ export function formatChartDate(dateStr: string): string {
   if (!dateStr) return '';
   const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   
+  // Format YYYY-MM-DD or ISO timestamp like "2026-11-16" -> "16 Nov"
+  if (/^\d{4}-\d{2}-\d{2}/.test(dateStr)) {
+    const parts = dateStr.slice(0, 10).split('-');
+    const mIdx = parseInt(parts[1], 10) - 1;
+    const dNum = parseInt(parts[2], 10);
+    if (mIdx >= 0 && mIdx < 12) {
+      return `${dNum < 10 ? '0' : ''}${dNum} ${monthNames[mIdx]}`;
+    }
+  }
+
   // Format MM/DD like "10/02" -> "02 Oct"
   if (/^\d{1,2}\/\d{1,2}$/.test(dateStr)) {
     const [month, day] = dateStr.split('/');
@@ -70,6 +80,17 @@ export function formatChartDateFull(dateStr: string): string {
   if (!dateStr) return '';
   const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   
+  // Format YYYY-MM-DD or ISO timestamp like "2026-11-16" -> "16 Nov 2026"
+  if (/^\d{4}-\d{2}-\d{2}/.test(dateStr)) {
+    const parts = dateStr.slice(0, 10).split('-');
+    const year = parts[0];
+    const mIdx = parseInt(parts[1], 10) - 1;
+    const dNum = parseInt(parts[2], 10);
+    if (mIdx >= 0 && mIdx < 12) {
+      return `${dNum < 10 ? '0' : ''}${dNum} ${monthNames[mIdx]} ${year}`;
+    }
+  }
+
   // Format MM/DD like "10/02" -> "02 Oct 2026"
   if (/^\d{1,2}\/\d{1,2}$/.test(dateStr)) {
     const [month, day] = dateStr.split('/');

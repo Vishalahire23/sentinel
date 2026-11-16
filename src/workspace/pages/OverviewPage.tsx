@@ -169,48 +169,60 @@ export const OverviewPage: React.FC<OverviewPageProps> = ({
             )}
           </div>
 
-          {activeMonitor && (
-            <div style={{
-              display: 'flex',
-              flexWrap: 'wrap',
-              gap: '0.85rem',
-              alignItems: 'center',
-              padding: '0.65rem 0.85rem',
-              backgroundColor: 'var(--bg-elevated)',
-              borderRadius: 'var(--radius-md)',
-              border: '1px solid var(--border-subtle)',
-              marginBottom: '1rem',
-              fontSize: '0.75rem'
-            }}>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-                <span style={{ color: 'var(--text-muted)' }}>Current Detected:</span>
-                <strong style={{ color: '#ffffff', fontFamily: 'var(--font-mono)' }}>
-                  {formatCurrency(activeMonitor.currentPrice, activeMonitor.currency)}
-                </strong>
+          {activeMonitor && (() => {
+            const historyPrices = (activeMonitor.priceHistory || [])
+              .map(p => p.price)
+              .filter(p => typeof p === 'number' && !isNaN(p) && p > 0);
+            const lowest30d = historyPrices.length > 0
+              ? Math.min(...historyPrices, activeMonitor.currentPrice)
+              : (activeMonitor.lowestPrice30d || activeMonitor.currentPrice);
+            const highest30d = historyPrices.length > 0
+              ? Math.max(...historyPrices, activeMonitor.currentPrice)
+              : (activeMonitor.highestPrice30d || activeMonitor.currentPrice);
+
+            return (
+              <div style={{
+                display: 'flex',
+                flexWrap: 'wrap',
+                gap: '0.85rem',
+                alignItems: 'center',
+                padding: '0.65rem 0.85rem',
+                backgroundColor: 'var(--bg-elevated)',
+                borderRadius: 'var(--radius-md)',
+                border: '1px solid var(--border-subtle)',
+                marginBottom: '1rem',
+                fontSize: '0.75rem'
+              }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                  <span style={{ color: 'var(--text-muted)' }}>Current Detected:</span>
+                  <strong style={{ color: '#ffffff', fontFamily: 'var(--font-mono)' }}>
+                    {formatCurrency(activeMonitor.currentPrice, activeMonitor.currency)}
+                  </strong>
+                </div>
+                <span>•</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                  <span style={{ color: 'var(--text-muted)' }}>30d Lowest (ATL):</span>
+                  <strong style={{ color: '#34d399', fontFamily: 'var(--font-mono)' }}>
+                    {formatCurrency(lowest30d, activeMonitor.currency)}
+                  </strong>
+                </div>
+                <span>•</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                  <span style={{ color: 'var(--text-muted)' }}>30d Peak:</span>
+                  <strong style={{ color: '#f87171', fontFamily: 'var(--font-mono)' }}>
+                    {formatCurrency(highest30d, activeMonitor.currency)}
+                  </strong>
+                </div>
+                <span>•</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                  <span style={{ color: 'var(--text-muted)' }}>Our Store Baseline:</span>
+                  <strong style={{ color: '#38bdf8', fontFamily: 'var(--font-mono)' }}>
+                    {formatCurrency(activeMonitor.baselinePrice || (activeMonitor.currentPrice * 1.04), activeMonitor.currency)}
+                  </strong>
+                </div>
               </div>
-              <span>•</span>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-                <span style={{ color: 'var(--text-muted)' }}>30d Lowest (ATL):</span>
-                <strong style={{ color: '#34d399', fontFamily: 'var(--font-mono)' }}>
-                  {formatCurrency(activeMonitor.lowestPrice30d || activeMonitor.currentPrice, activeMonitor.currency)}
-                </strong>
-              </div>
-              <span>•</span>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-                <span style={{ color: 'var(--text-muted)' }}>30d Peak:</span>
-                <strong style={{ color: '#f87171', fontFamily: 'var(--font-mono)' }}>
-                  {formatCurrency(activeMonitor.highestPrice30d || activeMonitor.currentPrice, activeMonitor.currency)}
-                </strong>
-              </div>
-              <span>•</span>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-                <span style={{ color: 'var(--text-muted)' }}>Our Store Baseline:</span>
-                <strong style={{ color: '#38bdf8', fontFamily: 'var(--font-mono)' }}>
-                  {formatCurrency(activeMonitor.baselinePrice || (activeMonitor.currentPrice * 1.04), activeMonitor.currency)}
-                </strong>
-              </div>
-            </div>
-          )}
+            );
+          })()}
 
           {activeMonitor ? (
             <PriceChart

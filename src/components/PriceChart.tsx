@@ -20,20 +20,32 @@ export const PriceChart: React.FC<PriceChartProps> = ({
 }) => {
   const [range, setRange] = useState<'7D' | '14D' | '30D'>('30D');
 
-  if (!data || data.length === 0) {
+  // Filter data based on selected time range and ensure unique, valid dates
+  const displayData = React.useMemo(() => {
+    if (!data || data.length === 0) return [];
+    const rawSlice = range === '7D' 
+      ? data.slice(-7) 
+      : range === '14D' 
+      ? data.slice(-14) 
+      : data.slice(-30);
+
+    // Deduplicate adjacent or repeated points for the same calendar day, keeping the latest price
+    const dateMap = new Map<string, PricePoint>();
+    for (const point of rawSlice) {
+      if (!point || !point.date) continue;
+      const key = point.date.slice(0, 10);
+      dateMap.set(key, { ...point, date: key });
+    }
+    return Array.from(dateMap.values());
+  }, [data, range]);
+
+  if (!data || data.length === 0 || displayData.length === 0) {
     return (
       <div style={{ height, display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--text-muted)' }}>
         No price history recorded yet.
       </div>
     );
   }
-
-  // Filter data based on selected time range
-  const displayData = range === '7D' 
-    ? data.slice(-7) 
-    : range === '14D' 
-    ? data.slice(-14) 
-    : data;
 
   const hasMarketAvg = displayData.some(d => d.marketAvg !== undefined);
   const hasBaseline = displayData.some(d => d.baselinePrice !== undefined);
@@ -71,6 +83,8 @@ export const PriceChart: React.FC<PriceChartProps> = ({
               fontSize={11}
               tickLine={false}
               tickFormatter={formatChartDate}
+              interval="preserveStartEnd"
+              minTickGap={25}
             />
             <YAxis 
               stroke="#475569" 
